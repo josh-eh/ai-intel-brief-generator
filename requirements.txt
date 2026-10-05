@@ -1,0 +1,5 @@
+# Core API client for generating threat intelligence briefs
+openai>=1.0.0
+
+# Manages secure environment variables for API keys
+python-dotenv>=1.0.0
